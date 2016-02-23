@@ -1,0 +1,33 @@
+{
+  "name": "testing-nodejs-promises",
+  "version": "1.0.0",
+  "description": "Code to show ways of testing promises. See https://gist.github.com/vquigley/f9f1a430210120bbbf37 for more info",
+  "main": "awesome.js",
+  "scripts": {
+    "test": "mocha --timeout 2000 --reporter nyan ./*Spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vquigley/Example-Testing-Node.JS-Promises.git"
+  },
+  "keywords": [
+    "nodejs",
+    "testing",
+    "promises"
+  ],
+  "author": "vquigley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vquigley/Example-Testing-Node.JS-Promises/issues"
+  },
+  "homepage": "https://github.com/vquigley/Example-Testing-Node.JS-Promises#readme",
+  "dependencies": {
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "mocha": "^2.4.5"
+  }
+}
+
