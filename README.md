@@ -8,4 +8,4 @@ npm install
 npm test
 ```
 
-For more information see https://gist.github.com/vquigley/f9f1a430210120bbbf37
+For more information see https://gist.github.com/vquigley/13c9192742b1276e831c
